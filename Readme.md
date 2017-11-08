@@ -4,6 +4,8 @@ $ git clone https://github.com/tana-dev/dotfiles.git
 
 $ cd dotfiles
 
+$ chmod 777 install.sh
+
 $ ./install.sh
 
 ## dein.vimを使う場合
