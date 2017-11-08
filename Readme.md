@@ -2,7 +2,7 @@
 ## install.sh
 $ cd ~
 
-$ git clone https://github.com/tana-dev/dotfiles.git
+$ git clone https://github.com/KitaharaShohei/dotfiles.git
 
 $ cd dotfiles
 
