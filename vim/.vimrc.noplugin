@@ -1,5 +1,6 @@
-colorscheme koehler
 syntax on
+colorscheme molokai
+set t_Co=256
 set wildmenu wildmode=list:full
 set clipboard=unnamed
 set noswapfile
